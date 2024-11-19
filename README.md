@@ -1,6 +1,6 @@
-# Heatify - Responsive Investment Website
+# Heatify - Responsive Health Website
 
-Welcome to **Heatify**, an innovative investment platform designed to help users make informed investment decisions. The website provides an interactive, user-friendly experience, allowing visitors to explore various investment opportunities with ease.
+Welcome to **Heatify**, an innovative investment platform designed to help users make informed health decisions. The website provides an interactive, user-friendly experience, allowing visitors to explore various health opportunities with ease.
 
 ## Features
 
